@@ -1,0 +1,6 @@
+{
+  "name": "SOYA AI",
+  "description": "Personal AI Assistant with Core Brain intelligence, natural Hindi voice, multi-lingual voice commands, device automation, and security insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
